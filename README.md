@@ -1,3 +1,7 @@
+# Archived Aug 20 2024
+
+I no longer own a Micro:Bit. This code was for the original version 1 Micro:Bit. And is left for historical reason. I'm no longer working with the Micro:bit board. 
+
 # BBC Microbit Code
 
 Place for some of the example code and some of my own code for the BBC Microbit microcontroller.
